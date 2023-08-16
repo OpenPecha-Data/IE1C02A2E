@@ -1,0 +1,80 @@
+id: IE1C02A2E
+ocr_import_info:
+  timestamp: '2023-08-16T06:25:56.816186+00:00'
+  batch_id: batch-727f
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Tenzin Jordhen
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-08-16 08:21:59.445224+00:00
+last_modified: 2023-08-16 08:21:59.445229+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W23629
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW23629
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། གཞོན་ནུ་བློ་གྲོས།
+  languages:
+  - bo
+  author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+statistics:
+  ocr_word_mean_confidence_index: 0.9975057791407219
+  ocr_word_median_confidence_index: 1.0
+bases:
+  I1KG12210:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12210
+      total_pages: 394
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I1KG12210.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9988328214554015
+  I1KG12209:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12209
+      total_pages: 836
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I1KG12209.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9984539515467309
+  I3504:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3504
+      total_pages: 478
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I3504.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9964682464668771
+  I3503:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3503
+      total_pages: 560
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I3503.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9960819138786368
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
